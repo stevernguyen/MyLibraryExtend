@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>980752F9-3C80-459F-BB26-2F0CE228BA40</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyLibraryExtend</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>32E285D662DBA4A522701B0B21D738E26652FB39</key>
+		<string>https://github.com/stevernguyen/MyLibraryExtend.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyLibraryExtend.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>32E285D662DBA4A522701B0B21D738E26652FB39</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stevernguyen/MyLibraryExtend.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>32E285D662DBA4A522701B0B21D738E26652FB39</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>32E285D662DBA4A522701B0B21D738E26652FB39</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyLibraryExtend</string>
+		</dict>
+	</array>
+</dict>
+</plist>

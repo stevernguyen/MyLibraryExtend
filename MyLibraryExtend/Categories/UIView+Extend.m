@@ -42,7 +42,6 @@
 
 - (void)setFrameY:(CGFloat)y
 {
-    [UIView animateWithDuration:<#(NSTimeInterval)#> animations:<#^(void)animations#>]
     CGRect f = self.frame;
     f.origin.y = y;
     self.frame = f;
